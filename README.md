@@ -24,7 +24,11 @@ MODE 3 - secor generator to verbose colony
 
 1. Paste a desired line from the list of colonies made by the sector generator.
 WARNING: Explicit details are randomly generated each time.
+
 ------
+
+Last Modification: Feb 21, 2016
+
 v0.21 - Implemented saving generated reports to file, sector naming, more intuitive menu loop.
 v0.2 - Implemented 2 more modes to work with http://travellermap.com/make/poster.
 v0.1 - Initial testing release
